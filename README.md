@@ -2,6 +2,9 @@
 
 **Movies** is a movies app using the [The Movie Database API](https://developers.themoviedb.org/3).
 
+[Live Preview](https://hhv-movies-tmdb-react.netlify.app/)
+
+
 ## User Stories
 
 The following **required** functionality is completed:
