@@ -1,0 +1,26 @@
+.movie__card--skeleton {
+  .movie__title {
+    margin-block: 29px;
+  }
+}
+
+.details--skeleton {
+  .details__content {
+    background: #000;
+    opacity: 0.8;
+  }
+  .details__poster {
+    height: 100%;
+  }
+  .details__title {
+    margin-block: 1.75rem;
+  }
+  .details__info {
+    width: 100%;
+  }
+  .details__group {
+    .block + .block {
+      margin-left: 1rem;
+    }
+  }
+}

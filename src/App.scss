@@ -1,0 +1,54 @@
+:root {
+  --green: #18e086;
+}
+
+.app {
+  overflow-y: auto;
+  max-height: 100vh;
+  position: relative;
+  z-index: 1;
+  color: var(--green);
+  text-align: center;
+}
+
+.app__search {
+  outline: none;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+.cover {
+  position: absolute;
+  background: black;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.9;
+}
+
+.react-tabs {
+  margin-top: 1.5rem;
+  .react-tabs__tab-list {
+    //border-bottom: 1px solid var(--green);
+    border-color: var(--green);
+  }
+  .react-tabs__tab--selected {
+    background: var(--green);
+    color: black;
+    font-weight: bold;
+    border-color: var(--green);
+  }
+  .react-tabs__tab:focus:after {
+    background: var(--green);
+  }
+}
+
+//.react-tabs__tab {
+//  &.react-tabs__tab--selected {
+//    background: none;
+//    color: var(--green);
+//  }
+//}
+
