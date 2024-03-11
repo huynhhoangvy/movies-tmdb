@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 > Please record screen to a GIF file and attach link here
-> ![User Stories GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+> ![User Stories GIF]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://drive.google.com/file/d/1fTV2mYLCOJOFGs4MCfeu_7EiidfNXYtX/view?usp=sharing))
 
 
 
